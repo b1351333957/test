@@ -90,13 +90,12 @@ canvas {
 ::-webkit-scrollbar {
 	display: none;
 }
-#btn{
-  margin: 40px;
-  width: 100px;
-  height: 30px;
-  background: pink;
-  text-align: center;
-  color: darkred;
-  line-height: 30px;
+#btn {
+	margin: 40px;
+	width: 100px;
+	height: 30px;
+	background: pink;
+	text-align: center;
+	color: darkred;
+	line-height: 30px;
 }
-
